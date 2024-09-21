@@ -1,0 +1,3 @@
+/mnt/d/metodosnum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/metodosnum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/metodosnum/cmake-build-debug/CMakeFiles/metodosnum.dir

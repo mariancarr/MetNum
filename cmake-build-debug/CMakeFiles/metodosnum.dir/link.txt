@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/metodosnum.dir/Tp2/main.cpp.o -o metodosnum 
